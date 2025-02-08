@@ -16,5 +16,8 @@
 [Video Explanation of the Report](https://tldv.io/app/meetings/677bf3a87a216e00135bfdd7/)  
 
 **Screenshots of Power BI Dashboard:**  
+![1736170435048](https://github.com/user-attachments/assets/782b3195-983a-4511-8405-f8d745e600cf)
+![1736170437814](https://github.com/user-attachments/assets/cb5cb069-62c2-4656-b49b-c7c328bc5ed8)
 ![1736170434672](https://github.com/user-attachments/assets/3b691503-1a1e-43dc-adb6-a73a560a8a40)
+
 
